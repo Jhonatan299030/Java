@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="criando-uma-webapp-com-java-e-mongodb">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/projetoFinal/escolalura/src/main/java" />
+      <root url="file://$PROJECT_DIR$/projetoFinal/escolalura/src/test/java" />
+      <root url="file://$PROJECT_DIR$/projetoSemParteWeb/JavaMongo/src/main/java" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,8 @@
+<component name="libraryTable">
+  <library name="spring:spring-web:1.0.2" type="repository">
+    <properties maven-id="spring:spring-web:1.0.2" />
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

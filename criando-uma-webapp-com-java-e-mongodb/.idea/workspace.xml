@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc0b901d-c73a-4acc-86db-db7950aa0576" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1YGijgLwBpte6fjTx61tOQ0KuI8" />
+  <component name="ProjectViewState">
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showModules" value="false" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path" value="E:\PC\Desktop\Projeto Compasso\Java\criando-uma-webapp-com-java-e-mongodb\projetoFinal\escolalura" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/projetoFinal/escolalura" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="osmorc.ide.settings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="MavenRunConfiguration" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven" editBeforeRun="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="true" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/projetoFinal/escolalura" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2">
+        <option name="Maven.BeforeRunTask" enabled="true" file="E:\PC\Desktop\Projeto Compasso\Java\criando-uma-webapp-com-java-e-mongodb\projetoFinal\escolalura/pom.xml" goal="" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc0b901d-c73a-4acc-86db-db7950aa0576" name="Default Changelist" comment="" />
+      <created>1582575468791</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582575468791</updated>
+      <workItem from="1582575470164" duration="633000" />
+      <workItem from="1582735252940" duration="624000" />
+      <workItem from="1582830337133" duration="1851000" />
+      <workItem from="1582835799220" duration="31000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="23" key="#Project_Structure" timestamp="1582575730986">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1582575730986" />
+    <state x="137" y="0" width="1100" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582835811607">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="0" width="1100" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1582835811607" />
+    <state x="484" y="244" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1582831309039">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="484" y="244" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1366.728@0.0.1366.728" timestamp="1582831309039" />
+    <state x="463" y="70" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1582575908679">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="70" key="#com.intellij.ide.macro.MacrosDialog/0.0.1366.728@0.0.1366.728" timestamp="1582575908679" />
+    <state x="412" y="149" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1582576001186">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="149" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1582576001186" />
+    <state x="458" y="80" key="DetectedRootsChooserDialog" timestamp="1582830862282">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="458" y="80" key="DetectedRootsChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1582830862282" />
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1582831121524">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1582831121524" />
+    <state width="661" height="179" key="GridCell.Tab.0.bottom" timestamp="1582832646960">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="661" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1582832646960" />
+    <state width="661" height="179" key="GridCell.Tab.0.center" timestamp="1582832646960">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="661" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1582832646960" />
+    <state width="661" height="179" key="GridCell.Tab.0.left" timestamp="1582832646960">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="661" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1582832646960" />
+    <state width="661" height="179" key="GridCell.Tab.0.right" timestamp="1582832646960">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="661" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1582832646960" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1582831318199">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1582831318199" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1582835799598">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1582835799598" />
+    <state x="408" y="258" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1582831204567">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="408" y="258" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.728@0.0.1366.728" timestamp="1582831204567" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1582830916299">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1582830916299" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1582575617285">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1582575617285" />
+  </component>
+</project>

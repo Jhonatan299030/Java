@@ -1,0 +1,52 @@
+GET http://localhost:8080/topicos/2
+Accept: application/json
+
+###
+GET http://localhost:8080/topicos
+Accept: application/json
+
+###
+GET http://localhost:8080/topicos?page=0&size=10&sort=id,desc
+Accept: application/json
+
+###
+PUT http://localhost:8080/topicos/4
+Content-Type: application/json
+
+{
+  "titulo": "Troquei a bagaça",
+  "mensagem": "Bagaça trocada",
+  "nomeCurso": "Spring Boot"
+}
+
+
+###
+POST http://localhost:8080/topicos
+Content-Type: application/json
+
+{
+  "titulo": "Nova bagaça",
+  "mensagem": "Bagaça nova",
+  "nomeCurso": "Spring Boot"
+}
+
+
+###
+POST http://localhost:8080/auth
+Content-Type: application/json
+
+{
+  "email": "aluno@email.com",
+  "senha": "123456"
+}
+
+
+###
+DELETE http://localhost:8080/topicos/1
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE1ODQwMzM4ODEsImlzcyI6IkFQSSBkbyBGw7NydW0gZG8gTG9yZGUgU3VwcmVtbyIsInN1YiI6IjEiLCJleHAiOjE1ODQwNDQ2ODF9.NVaxTP86sscv9fyLRH6Qv0I13LJuZF8bbJOhTL3jqBc
+
+###
+GET http://localhost:8080/actuator/health
+Accept: application/json
+
+###
